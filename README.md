@@ -3,3 +3,5 @@
 Olá! Bem vindo ao meu Livro de receitas :tomato:
 
 - Strogonoff de frango
+
+- Pavê
